@@ -15,17 +15,28 @@ variabel c bertipe   int (input("Masukkan bilangan ke-3: "))
 3. menampilkan bilangan terbesarnya dengan cara memanggil variabel d :
 jadi bilangan terbesar nya adalah variabel d
 
-# flowchart programnya
-![img.1](gambar/2022-11-03%20(2).png)
+# 
+- flowchart programnya
 
-# cara dan hasil dari programnya adalah :
-![img.2](gambar/1.png)
+- ![img.1](gambar/2022-11-03%20(2).png)
+
+# 
+- cara dan hasil dari programnya adalah :
+
+- ![img.2](gambar/1.png)
+
 1. kondisi 1
-![img.3](gambar/2.png)
+
+- ![img.3](gambar/2.png)
+
 2. kondisi 2
-![img.4](gambar/kondisi%202.png)
+
+- ![img.4](gambar/kondisi%202.png)
+
 3. kondisi 3
-![img.5](gambar/kondisi%203.png)
+
+- ![img.5](gambar/kondisi%203.png)
+
 # Algoritma Latihan1(input 2 buah bilangan dan mencari nilai terbesarnya)
 1. Input bilangan pada variabel a 
 2. Input bilangan pada variabel b
@@ -34,10 +45,12 @@ jadi bilangan terbesar nya adalah variabel d
 - tetapi jika bilangan pada variabel b lebih besar dari bilangan pada bariabel a maka output nilai terbesar adalah variabel b
 #
 - Kode programnya ebagai berikut:
-![img.6](gambar/lat1.1.png)
+
+- ![img.6](gambar/lat1.1.png)
 #
 - Hasil kode programnya :
-![img.7](gambar/lati1.2.png)
+
+- ![img.7](gambar/lati1.2.png)
 
 # Algoritma Mengurutkan bilagan dari urutan terkecil
 1. Input banyaknya suatu bilagan pada variabel a
@@ -47,11 +60,13 @@ jadi bilangan terbesar nya adalah variabel d
 5. Gunakan perintah list.sort(bil) utnuk mengurutkan bilangan 
 #
 - Kode programnya sebagai berikut:
-![img.8](gambar/latn2.1.png)
+
+- ![img.8](gambar/latn2.1.png)
 #
 - Hasil kode pogramnya :
-![img.9](gambar/lati2.2.png)
-# ==============================================================================================================================
+
+-![img.9](gambar/lati2.2.png)
+# ========================================
 
 # **labpy03**
 # Algoritma latihan1(**Bilangan random**)
@@ -60,10 +75,12 @@ jadi bilangan terbesar nya adalah variabel d
 3. Membuat perulangan for untuk mengulangi outputan random sebanyak inputan nilai N
 # 
 - Kode programnya sebagai berikut:
-![img.10](gambar/latihan1.1.png)
+
+- ![img.10](gambar/latihan1.1.png)
 #
 - Hasil kode programnya :
-![img.11](gambar/latihan1.2.png)
+
+- ![img.11](gambar/latihan1.2.png)
 
 # Algorirma latihan1(**Nested**)
 1. Membuat perulangan nested yakni perulangan dalam perulangan, menggunakan perulangan for 
@@ -74,10 +91,12 @@ pola persegi, dengan cara :
 - Jika i + b lebih kecil dari 10 maka jarak hanya dua spasi, tetapi
 = Jika i + b lebih kecil dari 20 maka jarak hanya satu spasi.
 5. lalu print menggunakan end=jarak itu adalah perintah print yang berfungsi membuat perulangan ke samping dan di ikuti juga selanjutnya dengan perintah print(). lebih jelasnya lihat program di bawah ini:
-![img.12](gambar/nested.1.png)
+
+- ![img.12](gambar/nested.1.png)
 #
 - Hasil programnya :
-![img.13](gambar/nested.2.png)
+
+- ![img.13](gambar/nested.2.png)
 # algoritma latihan2(**Mencari Nilai terbesar**)
 1. Mendeklarasikan variabel a sebagai array berindex kosong
 2. Membuat perulangan menggunakan while, perulangan akan terus berlanjut selagi bilangan atau index yang di input
@@ -88,10 +107,12 @@ index array variabel a
 5. Gunakan perintah max() untuk mencari nilai terbesarnya
 #
 - Kode programnya sebagai berikut:
-![img.14](gambar/max1.png)
+
+- ![img.14](gambar/max1.png)
 #
 - Hasil kode programnya:
-![img.15](gambar/max2.png)
+
+- ![img.15](gambar/max2.png)
 
 # Algoritma program1
 1. Mendeklarasikan varibel :
@@ -105,7 +126,9 @@ Total = laba ke-1 sampai 2 + laba ke-3 sampai 4 + laba ke-5 sampai 7 + laba ke-8
 3. Membuat perulangan menggunakan for untuk menambilkan hasil Laba 1 sampai 8
 #
 - Kode programnya sebagai berikut:
-![img.16](gambar/program1.2.png)
+
+- ![img.16](gambar/program1.2.png)
 #
 - Hasil kode programnya:
-![img.17](gambar/program1.1.png)
+
+- ![img.17](gambar/program1.1.png)
