@@ -47,7 +47,7 @@ jadi bilangan terbesar nya adalah variabel d
 5. Gunakan perintah list.sort(bil) utnuk mengurutkan bilangan 
 #
 - Kode programnya sebagai berikut:
-![img.8](gambar/latn2.1.png.png)
+![img.8](gambar/latn2.1.png)
 #
 - Hasil kode pogramnya :
 ![img.9](gambar/lati2.2.png)
