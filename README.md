@@ -18,7 +18,7 @@ jadi bilangan terbesar nya adalah variabel d
 # 
 - flowchart programnya
 
-- ![img.1](gambar/2022-11-03%20(2).png)
+- ![img.1](gambar/flowchart.png)
 
 # 
 - cara dan hasil dari programnya adalah :
@@ -72,7 +72,8 @@ jadi bilangan terbesar nya adalah variabel d
 # Algoritma latihan1(**Bilangan random**)
 1. Input variabel n 
 2. Import random menggunakan perintah import random
-3. Membuat perulangan for untuk mengulangi outputan random sebanyak inputan nilai N
+3. Membuat perulangan for untuk mengulangi outputan random sebanyak inputan nilai N, dan didalam perulangan for isikan 
+perintah random.uniform(.0,.5)
 # 
 - Kode programnya sebagai berikut:
 
